@@ -1,0 +1,10 @@
+{
+  "name": "votre webapp",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "~1.5.1",
+    "jquery": "~2.0.3",
+    "angular": "~1.2.16",
+    "angular-mocks": "~1.2.16"
+  }
+}
